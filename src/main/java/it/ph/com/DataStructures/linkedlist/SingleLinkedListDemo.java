@@ -3,7 +3,7 @@ package it.ph.com.DataStructures.linkedlist;
 /**
  * @author: P H
  * @时间: 2024/03/15
- * @描述: 单向链表实现（不考虑编号的顺序）
+ * @描述: 单向链表实现
  */
 public class SingleLinkedListDemo {
 
